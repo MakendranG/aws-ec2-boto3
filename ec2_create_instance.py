@@ -9,4 +9,4 @@
       MaxCount=1,
       InstanceType='t2.micro',
   )
-  print("AWS EC2 Instance Launched succesfully")
+  print("AWS EC2 Instance Launched successfully")
